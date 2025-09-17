@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm mbzl :) </h1>
-<h3 align="center">I am a developer</h3>
-<h4 align="center">Discord: @mbzlll</h4>
+<h1 align="center">Hi 👋, I'm Splaterd :) </h1>
+<h3 align="center">I am a Software Engineering & Cybersecurity Student</h3>
+<h4 align="center">Discord: @splaterd</h4>
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbzl&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="mbzl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splaterd&theme=dracula" alt="splaterd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splaterd&theme=dracula" alt="mbzl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/splaterd_256" target="blank"><img src="https://img.shields.io/twitter/follow/splaterd_256?logo=twitter&style=for-the-badge&theme=dracula" alt="splaterd_256" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
